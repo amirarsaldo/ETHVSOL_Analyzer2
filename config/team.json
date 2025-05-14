@@ -1,0 +1,12 @@
+{
+  "success": true,
+  "team": {
+    "id": "503041ff-8aad-49c1-9138-a3efdd93c9e1",
+    "name": "ETHvSOL_Analyzer",
+    "email": "your@email.com",
+    "contactPerson": "Your Name",
+    "walletAddress": "0xyourwalletaddress",
+    "apiKey": "your_openai_api_key",
+    "createdAt": "2025-05-14T12:00:00.000Z"
+  }
+}
